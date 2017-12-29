@@ -771,8 +771,6 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #portfolio #portfolio-wrapper {
   padding-right: 0px;
-  width:100%;
-  margin-left: 0px !important;
 }
 
 #portfolio #portfolio-flters {
@@ -805,6 +803,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 #portfolio .portfolio-item {
   position: relative;
   height: 200px;
+  width: 100%;
   overflow: hidden !important;
   margin-bottom: 15px;
   transition: all 350ms ease;
