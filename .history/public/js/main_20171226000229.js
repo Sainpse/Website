@@ -159,4 +159,3 @@ function getDifference() {
   document.getElementById("#DaysLeft").innerHTML = Math.round(difference / day);
 
 }
-

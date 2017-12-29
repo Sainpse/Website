@@ -752,7 +752,7 @@ if it's not present, don't show loader */
 	width: 100%;
 	height: 100%;
 	z-index: 9999;
-	background: url(../img/load.gif) center no-repeat #191f26;
+	background: url(img/loader-64x/Preloader_2.gif) center no-repeat #fff;
 }
 #call-to-action .cta-btn {
   font-family: "Poppins", sans-serif;
@@ -784,16 +784,10 @@ if it's not present, don't show loader */
 
 #portfolio #portfolio-wrapper {
   padding-right: 0px;
-  width:100% !important;
+  width:100%;
   margin-left: 0px !important;
 }
-@media screen and (min-width: 480px) {
-  #portfolio #portfolio-wrapper {
-    padding-right: 0px;
-    width: 100% !important;
-    margin-left: 0px !important;
-  }
-}
+
 #portfolio #portfolio-flters {
   padding: 0;
   margin: 0 0 0px 0;

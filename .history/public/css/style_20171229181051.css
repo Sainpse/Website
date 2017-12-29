@@ -788,10 +788,9 @@ if it's not present, don't show loader */
   margin-left: 0px !important;
 }
 @media screen and (min-width: 480px) {
-  #portfolio #portfolio-wrapper {
-    padding-right: 0px;
-    width: 100% !important;
-    margin-left: 0px !important;
+  textMessage {
+    color: #ccc;
+    margin-right: 30%;
   }
 }
 #portfolio #portfolio-flters {
