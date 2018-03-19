@@ -1,6 +1,3 @@
-Thanks for downloading this theme!
+The website runs on node.js server hosted on azure cloud.
 
-Theme Name: Regna
-Theme URL: https://bootstrapmade.com/regna-bootstrap-onepage-template/
-Author: BootstrapMade.com
-Author URL: https://bootstrapmade.com
+Every push to the master will be live on the public website
