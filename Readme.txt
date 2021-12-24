@@ -1,3 +1,2 @@
-The website runs on node.js server hosted on azure cloud.
+Outdated Site
 
-Every push to the master will be live on the public website
